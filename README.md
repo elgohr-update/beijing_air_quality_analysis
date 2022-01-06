@@ -30,7 +30,7 @@ Figure 1. Files graph (\**click on it to view the enlarged file graph diagram)*
 
 ## Report
 
-The final report can be found in this [webpage](https://ubc-mds.github.io/beijing_air_quality_analysis/)
+The final report can be found in this [webpage](https://macychan.github.io/beijing_air_quality_analysis/)
 
 ## Usage
 
